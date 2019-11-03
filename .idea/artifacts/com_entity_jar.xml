@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.entity:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/com_entity_jar</output-path>
+    <root id="archive" name="com.entity.jar">
+      <element id="module-output" name="com.entity" />
+    </root>
+  </artifact>
+</component>
